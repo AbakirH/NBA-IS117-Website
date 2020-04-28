@@ -57,12 +57,16 @@
     width: 65px;
 }
 .d-block{
-    width: 25vw;
-    height: 100%;
-    margin: 0 auto 5%;
+  width: auto;
+  height: 300px;
+  max-height: 300px;
+  margin: 2% auto;
 }
 .carousel-inner{
     height: 100%;
+    width: 100%;
+
+
 }
 .carousel-control-next-icon,
 .carousel-control-prev-icon,
