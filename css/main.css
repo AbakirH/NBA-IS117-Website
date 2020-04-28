@@ -253,6 +253,7 @@
       width: 5rem;
       height: 5rem;
     }
+    
   }
 
   @media screen and (max-width: 1100px) {
@@ -290,7 +291,6 @@ h1{
 .dis{
     margin: 5% 0%;
     border: 5px solid black;
-    width: 50vw;
     height: 50vh;
 
 }
@@ -342,4 +342,8 @@ h1{
 }
 .ch{
   background-color:#17408B;
+}
+.middle{
+  display: flex;
+  justify-content: center;
 }
